@@ -5,3 +5,4 @@ awscli
 flake8
 python-dotenv==0.7.1
 repackage==0.6
+sphinx-autodoc-typehints
